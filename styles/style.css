@@ -174,8 +174,8 @@
     height: auto;
 }
 .desc{
-    padding: 15px;
-    text-align: center;
+    padding: 10px;
+    text-align: left;
     font-family: 'Roboto';
     font-size: 18px;
 }
@@ -241,7 +241,7 @@
     vertical-align: middle;
     display: inline-block;
     border-radius: 5px;
-    font-size: 18px;
+    font-size: 22px;
     padding: 5px 35px;
     margin: 12px 150px;
     color: #e5e7eb;
