@@ -144,8 +144,7 @@
     font-weight: 600;
     cursor: pointer;
     margin-top: 12px;
-    text-align: center;
-    
+    text-align: center; 
 }
 .b1:hover{
     background-color: #214b8f;
@@ -223,7 +222,6 @@
     flex-wrap: wrap;
     background-color: #3882f6;
     border-radius: 15px;
-
 }
 .inner-section3 .inner-inner-section3{
     flex: 1 1 70%;
